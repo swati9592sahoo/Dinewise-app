@@ -1,0 +1,7 @@
+{
+  "name": "Remix: DineWise: Restaurant Finder \u0026 Deal Tracker",
+  "description": "Discover the best nearby restaurants, signature dishes, and table booking discounts across various platforms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
